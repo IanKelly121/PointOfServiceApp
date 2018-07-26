@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">Order 66</string>
+    <string name="app_welcome">Welcome To Order 66</string>
+
+    <string name="logIn">Sign In</string>
+    <string name="selectRole">Select A Role</string>
+    <string name="totalMenu">Total Menu</string>
+    <string name="totalOrder">Current Order</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_username">Username</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This username is invalid</string>
+    <string name="error_email_too_long">This Email is too long</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing username
+        completions."
+    </string>
+    <string name="theFloorButton">Floor Staff</string>
+    <string name="theBarButton">Bar Staff</string>
+    <string name="theKitchenButton">Kitchen Staff</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_log_off">Sign Out</string>
+    <string name="action_sync">Sync Menu</string>
+    <string name="title_item_list">Menu</string>
+    <string name="title_received_list">Your Received Order</string>
+    <string name="title_table_list">Select A Table</string>
+    <string name="title_total_list">Your Order</string>
+    <string name="title_item_detail">Food Description</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="intro">Navigation Drawer with Master-Detail Flow Example</string>
+    <string name="create_order">Create An Order</string>
+    <string name="view_order">View All OPEN Orders</string>
+
+</resources>

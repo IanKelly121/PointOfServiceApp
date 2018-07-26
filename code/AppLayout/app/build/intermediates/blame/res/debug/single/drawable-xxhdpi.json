@@ -1,0 +1,54 @@
+[
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_total_order_button.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_total_order_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_button.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_action_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_view_tables.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_tables.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_create_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_create_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_done_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_send_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_send_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_remove_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_remove_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_action_button.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_action_button.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_done_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_done_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_view_menu.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_view_menu.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_menu.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_create_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_create_order.png"
+    },
+    {
+        "merged": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi\\ic_view_total_order.png",
+        "source": "C:\\Users\\Ian\\pointofserviceapp\\code\\AppLayout\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_view_total_order.png"
+    }
+]

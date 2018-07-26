@@ -1,0 +1,36 @@
+.contactUsBackground{
+  background-size: 100% 100%;
+  background-color:  #6e3667;
+  height: 600px;
+}
+
+.contactUs button{
+  background-color: #6e3667;
+  border-color: #88d317;
+  color: #88d317;
+}
+
+.contactUs button:hover{
+  background-color: #88d317;
+  border-color: #6e3667;
+  color: #6e3667;
+  animation: sideShake 0.82s cubic-bezier(.36,.07,.19,.97) both;
+}
+
+@keyframes sideShake {
+  10%, 90% {
+    transform: translate3d(-1px, 0, 0);
+  }
+  
+  20%, 80% {
+    transform: translate3d(2px, 0, 0);
+  }
+
+  30%, 50%, 70% {
+    transform: translate3d(-4px, 0, 0);
+  }
+
+  40%, 60% {
+    transform: translate3d(4px, 0, 0);
+  }
+}

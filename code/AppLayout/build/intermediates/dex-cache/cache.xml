@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-compat-25.2.0_eea0815c9977c41320eea3b18f03df49100bf135.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="810f41e5b7fd99f196ebeabe865ba2c54e7e76dc">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-vector-drawable-25.2.0_2e3117ed0aff705b20de6e0c5b98c108ed80ee35.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-v4\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-25.2.0_eaca096b5e54ab8deb6d61ce303163328770aa48.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cb454b52545859ed2f24a6c01366805b0fa04b22">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-animated-vector-drawable-25.2.0_d8c9371706a7849f2297bf8aa3990d2315c1f1fb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\recyclerview-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="152de8da301561dcb0946471697a420d8f7a68c5">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-recyclerview-v7-25.2.0_4abfcb2c32c7927c3917319eab14950b817c318f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\design\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ea6a989b83d19b1b461281e0475a6cd6514897f8">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-design-25.2.0_2c7a25474eeb797322b92829a1a834fc0e6b2cb1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="702d339bc0a81d21354cd7e2cf2b67225fa4a16c">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-25.2.0_9ab76fc595764fd60a99a442bfb228a9fc0e30b4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-ui\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-ui-25.2.0_c76a81f4423343ad2ae5ffe79b1d988b911852da.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.2.0\support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\support-annotations-25.2.0_4112e795b330842c594197c07653630daceafe82.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-fragment\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-fragment-25.2.0_89ecaa5c7ccbdbe8bcf2504ee84204815ad88768.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-core-utils\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-core-utils-25.2.0_759e377f815f566544263e182284e11284727302.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\support-media-compat\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-support-media-compat-25.2.0_2cf6c7de4e1b812fdc6efb83bb48c8ebe99d6790.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\exploded-aar\com.android.support\transition\25.2.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e51c2f662bb72419632af5192553c37e33890a99">
+        <dex dex="C:\Users\Ian\pointofserviceapp\code\AppLayout\app\build\intermediates\pre-dexed\debug\com.android.support-transition-25.2.0_63427d6a463effe8f7a7dbf34b6827aa24105df8.jar" />
+    </item>
+
+</items>
